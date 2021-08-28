@@ -1,4 +1,4 @@
 ---
-title: "My-Blog"
+title: "My Blog"
 date: 2021-08-28
 ---
