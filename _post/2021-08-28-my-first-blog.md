@@ -1,4 +1,4 @@
 ---
-title: "My Blog is good"
+title: "Your blog post title"
 date: 2021-08-28
 ---
